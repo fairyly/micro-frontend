@@ -14,3 +14,6 @@
 
 - [每日优鲜供应链前端团队微前端改造](https://juejin.im/post/5d7f702ce51d4561f777e258)
 - [手写微前端框架](https://github.com/YataoZhang/my-single-spa/issues/4)
+
+
+- [Serverless 掀起新的前端技术变革](https://zhuanlan.zhihu.com/p/65914436)
