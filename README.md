@@ -4,7 +4,7 @@
 
 ## demo
 
-- [vue3 + qinakun](https://gitee.com/jeedp/qiankun-template)
+- [vue3 + qinakun](https://gitee.com/bordon.com/qiankun-template)
 
 
 ## 参考
