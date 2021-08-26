@@ -5,6 +5,11 @@
 ## demo
 
 - [vue3 + qinakun](https://gitee.com/bordon.com/qiankun-template)
+- https://github.com/liugangtaotie/qiankun-mobile-code
+
+
+## plugin
+- https://github.com/tengmaoqing/vite-plugin-qiankun
 
 
 ## 参考
