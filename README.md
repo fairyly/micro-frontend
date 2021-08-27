@@ -6,7 +6,8 @@
 
 - [vue3 + qinakun](https://gitee.com/bordon.com/qiankun-template)
 - https://github.com/liugangtaotie/qiankun-mobile-code
-
+- [hql7/wl-micro-frontends](https://github.com/hql7/wl-micro-frontends)
+- [fengxianqi/qiankun-example](https://github.com/fengxianqi/qiankun-example)
 
 ## plugin
 - https://github.com/tengmaoqing/vite-plugin-qiankun
